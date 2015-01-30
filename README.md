@@ -52,3 +52,4 @@ HINT: Try using publicly available Open Street Map data available here:
 
   http://tile.openstreetmap.org/{z}/{x}/{y}.png is probably a good place to start
 ````
+Step 8:  Yer done!
