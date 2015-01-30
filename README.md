@@ -24,4 +24,9 @@ Open up the file called google_maps_api.xml.  You need a Google Maps API key.
 Follow the instructions in the comments at the top of this file.  
 See if you can't get the map to show up.
 ````
-Step 6:  Something you should know about the Mobile Apps Team.  We love Medeval Times dinner theatre.
+Step 6:  Something you should know about the Mobile Apps Team.  We love Medieval Times dinner theatre.
+![s](https://raw.githubusercontent.com/travisbaumgart/BasicInterviewProblem/master/images/image002.jpg)
+![s](https://raw.githubusercontent.com/travisbaumgart/BasicInterviewProblem/master/images/image003.jpg)
+````
+For your next challenge, find the Medieval Times in Baltimore.  Put a Marker on the map at that location.  For extra credit, have the application zoom in to that location when you open it.
+````
