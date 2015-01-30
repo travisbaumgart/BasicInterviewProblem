@@ -24,3 +24,4 @@ Open up the file called google_maps_api.xml.  You need a Google Maps API key.
 Follow the instructions in the comments at the top of this file.  
 See if you can't get the map to show up.
 ````
+Step 6:  Something you should know about the Mobile Apps Team.  We love Medeval Times dinner theatre.
