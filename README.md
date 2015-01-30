@@ -5,6 +5,7 @@ Greetings and salutations.  The following is a basic exercise that the Mobile Ap
 Lets get started!  
 
 Step 1: Install Android Studio.  I used version: 1.0.  
+
 Step 2: Download the code onto your machine using git. Something like: 
 
 git clone https://github.com/travisbaumgart/BasicInterviewProblem.git
