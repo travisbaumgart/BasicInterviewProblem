@@ -15,4 +15,4 @@ Step 3: Import the git project into Android Studio.  A few users have had to upg
 Step 4:  Let's get the app building and deployed to a phone.  If you don't have a phone, feel free to use the Emulator that comes with Android Studio.  The phone is faster/easier.  You've been warned!  First make sure your phone is in Development Mode.  This will allow Android Studio to deploy your app.  Not sure how to put your phone into Development Mode?  I could google that for you...but I WON'T!  Once you're ready...use Android Studio to publish the app.  
 
 Step 5:  Houston...we have a problem.  Our goal was:
-![screen1](https://lh5.googleusercontent.com/aa-AHKiMNrElMhf8dcU82L-ttL0ej6SXzaJ3zLuUOYGBkueavWfq4IyyuFd1Pn7rI6HgL_Dj_yM=w1846-h836)
+![screen1](https://raw.githubusercontent.com/travisbaumgart/BasicInterviewProblem/master/images/interview1SS.png)
