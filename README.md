@@ -47,7 +47,8 @@ into a Tile Overlay for our map.  Take a look at the following page:
   
   https://developers.google.com/maps/documentation/android/tileoverlay
   
-Try and wire the fourth button up to display a tile overlay.  HINT: Try using publicly available Open Street Map data available here:
+Try and wire the fourth button up to display a tile overlay.  
+HINT: Try using publicly available Open Street Map data available here:
 
   http://tile.openstreetmap.org/{z}/{x}/{y}.png is probably a good place to start
 ````
