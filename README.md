@@ -8,7 +8,7 @@ Step 1: Install Android Studio.  I used version: 1.0.
 
 Step 2: Download the code onto your machine using git. Something like:
 ````
-git clone https://github.com/travisbaumgart/BasicInterviewProblem.git" 
+git clone https://github.com/travisbaumgart/BasicInterviewProblem.git
 ````
 
 Step 3: Import the git project into Android Studio.  A few users have had to upgrade Gradle in order to get the project building.  Android Studio SHOULD help you with this.  Take a look at the application structure.  Like most IDEs, Android Studio hides a lot of the dirty details from us so that we can just concentrate on the task at hand.
@@ -38,4 +38,15 @@ Wire up those buttons to actually do something.  Changing the map type isn't
 that hard.  As a stretch goal, add some logic to activate/deactivate the 
 buttons at appropriate times.  Probably shouldn't be able to press Hybrid 
 if a Hybrid map is being displayed.
+````
+If you've made it this far, you're doing great.  The Mobile Apps Team doesn't want you to burn an entire weekend on this exercise.  If you've got some more gas in your tank, consider the extra credit.  This problem is a little harder.
+````
+Add another button to the bottem of the screen.  You may have to play with 
+the layout a little bit to get it pretty.  We're going to turn this button 
+into a Tile Overlay for our map.  Take a look at the following page:
+  
+  https://developers.google.com/maps/documentation/android/tileoverlay
+  
+
+
 ````
