@@ -32,3 +32,10 @@ For your next challenge, find the Medieval Times in Baltimore.
 Put a Marker on the map at that location.  For extra credit, have the 
 application zoom in to that location when you open it.
 ````
+Step 7:  By now, you've probably noticed the three buttons at the bottom of the screen labled 'Normal', 'Satellite' and 'Hybrid'.  If you press them, notice that ABSOLUTELY NOTHING HAPPENS!
+````
+Wire up those buttons to actually do something.  Changing the map type isn't 
+that hard.  As a stretch goal, add some logic to activate/deactivate the 
+buttons at appropriate times.  Probably shouldn't be able to press Hybrid 
+if a Hybrid map is being displayed.
+````
