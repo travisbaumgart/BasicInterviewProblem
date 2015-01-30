@@ -28,5 +28,7 @@ Step 6:  Something you should know about the Mobile Apps Team.  We love Medieval
 ![s](https://raw.githubusercontent.com/travisbaumgart/BasicInterviewProblem/master/images/image002.jpg)
 ![s](https://raw.githubusercontent.com/travisbaumgart/BasicInterviewProblem/master/images/image003.jpg)
 ````
-For your next challenge, find the Medieval Times in Baltimore.  Put a Marker on the map at that location.  For extra credit, have the application zoom in to that location when you open it.
+For your next challenge, find the Medieval Times in Baltimore.  
+Put a Marker on the map at that location.  For extra credit, have the 
+application zoom in to that location when you open it.
 ````
