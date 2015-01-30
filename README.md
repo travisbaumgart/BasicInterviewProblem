@@ -19,6 +19,8 @@ Step 5:  Houston...we have a problem.  Your map is probably not showing up.  Our
 
 ![screen1](https://raw.githubusercontent.com/travisbaumgart/BasicInterviewProblem/master/images/interview1SS.png)
 ````
-Here is your first challenge.  Let's fix the app so that we can see the map.  Open up the file called 
-google_maps_api.xml.  You need a Google Maps API key.  Follow the instructions in the comments at the top of this file.  See if you can't get the map to show up.
+Here is your first challenge.  Let's fix the app so that we can see the map.  
+Open up the file called google_maps_api.xml.  You need a Google Maps API key.  
+Follow the instructions in the comments at the top of this file.  
+See if you can't get the map to show up.
 ````
