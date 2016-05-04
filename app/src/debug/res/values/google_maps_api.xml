@@ -3,7 +3,7 @@
     <!--
       TODO: Before you run your application, you need a Google Maps API key.
 
-      https://developers.google.com/maps/documentation/javascript/tutorial#api_key
+      https://developers.google.com/maps/documentation/android-api/start
 
       Once you have your key (it starts with "AIza"), replace the "google_maps_key"
       string in this file.
